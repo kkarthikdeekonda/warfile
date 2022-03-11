@@ -1,0 +1,36 @@
+http://18.225.36.254:8080/job/demo-scm/build?token=123456
+
+
+bulid triggers 
+
+ task name  choose bulid =bulid triggers
+ 2 and copy bellow link from jenkinsfile to name token
+example JENKINS_URL/job/demo-scm/build?token=TOKEN_NAME
+ 3 and remove jenkinsfle and copy our ip address 
+  
+4 genrate token number and remove token name  and paste our ip address
+
+and open google and prees the three dots symbol and go to new intigowindow and paste the link 
+
+affter autometically bulud
+
+-------------------------------------------------------------------------------------------------------------------------------   
+how to bulid every 2 minutes  autometicallye
+
+Build periodically
+ 
+and press the question mark symbol  in poll scm
+and copy this one H/15 * * * *
+ replace 2 in 15 place 
+affter save 
+
+------------
+Build after other projects are built?
+
+we are take anther job and this job bulid autometically ther job bulid
+job1 and job2 
+
+we are config in job1 and bilid job2 autometically job 1 bulid
+
+
+
